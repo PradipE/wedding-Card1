@@ -16,7 +16,9 @@ function App() {
       <div
         className="h-screen bg-cover bg-center sm:bg-none m-2 rounded-sm"
         style={{ backgroundImage: `url(${ph1})` }}
-      ></div>
+      >
+        <h1>Dipika & Subrata</h1>
+      </div>
       <div
         className="h-screen bg-cover bg-center sm:bg-none m-2 rounded-sm"
         style={{ backgroundImage: `url(${ph2})` }}
