@@ -18,6 +18,7 @@ function App() {
         style={{ backgroundImage: `url(${ph1})` }}
       >
         <h1>Dipika & Subrata</h1>
+        <h1>3rd march</h1>
       </div>
       <div
         className="h-screen bg-cover bg-center sm:bg-none m-2 rounded-sm"
